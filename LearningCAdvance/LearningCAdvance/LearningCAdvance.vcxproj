@@ -76,7 +76,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dongvat.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Nguoi.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dongvat.h" />
+    <ClInclude Include="Nguoi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
