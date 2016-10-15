@@ -1,13 +1,15 @@
-﻿Build started 10/12/2016 10:55:00 PM.
+﻿Build started 10/12/2016 11:48:17 PM.
      1>Project "E:\C_learningAdvance\learning_c_advance\QTLoginForm\QTLoginForm\QTLoginForm.vcxproj" on node 2 (Build target(s)).
      1>CustomBuild:
-         Uic'ing qtloginform.ui...
+         Moc'ing qtloginform.h...
        ClCompile:
          F:\Setup_program\visual2013\vc2013\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IF:\Setup_program\QT\5.6\msvc2013_64\include /I.\GeneratedFiles\Debug /IF:\Setup_program\QT\5.6\msvc2013_64\include\QtCore /IF:\Setup_program\QT\5.6\msvc2013_64\include\QtGui /IF:\Setup_program\QT\5.6\msvc2013_64\include\QtWebSockets /IF:\Setup_program\QT\5.6\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WEBSOCKETS_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_qtloginform.cpp main.cpp qtloginform.cpp
          moc_qtloginform.cpp
          main.cpp
          qtloginform.cpp
          Generating Code...
+         F:\Setup_program\visual2013\vc2013\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IF:\Setup_program\QT\5.6\msvc2013_64\include /I.\GeneratedFiles\Debug /IF:\Setup_program\QT\5.6\msvc2013_64\include\QtCore /IF:\Setup_program\QT\5.6\msvc2013_64\include\QtGui /IF:\Setup_program\QT\5.6\msvc2013_64\include\QtWebSockets /IF:\Setup_program\QT\5.6\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WEBSOCKETS_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_qtloginform.cpp
+         qrc_qtloginform.cpp
        Link:
          F:\Setup_program\visual2013\vc2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C_learningAdvance\learning_c_advance\QTLoginForm\x64\Debug\\QTLoginForm.exe" /NOLOGO /LIBPATH:F:\Setup_program\QT\5.6\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5WebSocketsd.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C_learningAdvance\learning_c_advance\QTLoginForm\x64\Debug\QTLoginForm.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C_learningAdvance\learning_c_advance\QTLoginForm\x64\Debug\QTLoginForm.lib" /MACHINE:X64 x64\Debug\moc_qtloginform.obj
          x64\Debug\qrc_qtloginform.obj
@@ -18,4 +20,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:05.62
+Time Elapsed 00:00:10.50

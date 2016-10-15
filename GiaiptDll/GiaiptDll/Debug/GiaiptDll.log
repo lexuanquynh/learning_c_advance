@@ -1,20 +1,5 @@
-﻿Build started 10/15/2016 11:06:50 AM.
-     1>Project "E:\C_learningAdvance\learning_c_advance\GiaiptDll\GiaiptDll\GiaiptDll.vcxproj" on node 2 (Rebuild target(s)).
-     1>ClCompile:
-         F:\Setup_program\visual2013\vc2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GIAIPTDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GiaiptLibrary.cpp
-         GiaiptLibrary.cpp
-     1>e:\c_learningadvance\learning_c_advance\giaiptdll\giaiptdll\giaiptlibrary.cpp(8): warning C4273: 'MathLibrary::GiaiPhuongTrinh::PhuongtrinhBacHai' : inconsistent dll linkage
-                 e:\c_learningadvance\learning_c_advance\giaiptdll\giaiptdll\giaiptlibrary.h(17) : see previous definition of 'PhuongtrinhBacHai'
-     1>e:\c_learningadvance\learning_c_advance\giaiptdll\giaiptdll\giaiptlibrary.cpp(9): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
-     1>e:\c_learningadvance\learning_c_advance\giaiptdll\giaiptdll\giaiptlibrary.cpp(10): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
-     1>e:\c_learningadvance\learning_c_advance\giaiptdll\giaiptdll\giaiptlibrary.cpp(27): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-     1>e:\c_learningadvance\learning_c_advance\giaiptdll\giaiptdll\giaiptlibrary.cpp(28): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-       Link:
-         F:\Setup_program\visual2013\vc2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C_learningAdvance\learning_c_advance\GiaiptDll\Debug\GiaiptDll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\C_learningAdvance\learning_c_advance\GiaiptDll\Debug\GiaiptDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C_learningAdvance\learning_c_advance\GiaiptDll\Debug\GiaiptDll.lib" /MACHINE:X86 /DLL Debug\GiaiptLibrary.obj
-            Creating library E:\C_learningAdvance\learning_c_advance\GiaiptDll\Debug\GiaiptDll.lib and object E:\C_learningAdvance\learning_c_advance\GiaiptDll\Debug\GiaiptDll.exp
-         GiaiptDll.vcxproj -> E:\C_learningAdvance\learning_c_advance\GiaiptDll\Debug\GiaiptDll.dll
-     1>Done Building Project "E:\C_learningAdvance\learning_c_advance\GiaiptDll\GiaiptDll\GiaiptDll.vcxproj" (Rebuild target(s)).
+﻿Build started 10/15/2016 11:38:03 AM.
 
 Build succeeded.
 
-Time Elapsed 00:00:01.49
+Time Elapsed 00:00:00.01

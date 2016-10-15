@@ -32,7 +32,7 @@ namespace MathLibrary
 		else {
 			std::cout << "Phuong trinh co nghiem duy nhat!" << std::endl;
 			x1 = (-b - delta) / (2 * a);
-			x2 = (-b - delta) / (2 * a);
+			x2 = x1;
 			return CO_NGHIEM;
 		}
 	}
